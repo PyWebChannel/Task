@@ -24,6 +24,7 @@
 ### LINUX / MacOS
 В Linux и MacOS Python установлен по умолчанию, поэтому проблем с запуском не должно возникнуть. Команды для запуска:
 `python /path/to/script.py `(для версии Python2.x) или `python3 /path/to/script.py`(для версии Python3.x - скрипт написан на версии 3.8)  
+### Windows
 В Windows сначала необходимо установить [Python](https://www.python.org/downloads/). Запуск скрипта аналогичен запуску на Linux и MacOS.  
 **Важное примечание!** Для корректной работы скрипта необходимо установить библиотеки requests и bs4(beautifulsoup) командами `pip install requests` и `pip install bs4` 
 
